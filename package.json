@@ -1,0 +1,15 @@
+{
+  "name": "error-handling-middleware",
+  "version": "1.0.0",
+  "description": "nodejs expressjs middleware backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
