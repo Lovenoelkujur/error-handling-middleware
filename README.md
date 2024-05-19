@@ -115,10 +115,10 @@ The middleware function errHandleMiddleware validates the user input during the 
  
 If any validation fails, the middleware responds with a 400 Bad Request status and an appropriate error message.
 
-### Example Usage
+## Example Usage
 
 To register a user, send a POST request to `/signup` with a JSON body containing the required fields. If the input is valid, the server will respond with a success message. If any validation fails, you will receive a descriptive error message.
 
-### License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
